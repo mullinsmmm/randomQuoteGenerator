@@ -1,0 +1,18 @@
+*{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-content: center;
+}
+
+.quoteHolder{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    margin: 25px;
+    width: 350px;
+    height: 200px;
+    outline: dashed 4px black;
+    word-wrap: break-word;
+    word-break: break-all;
+}
