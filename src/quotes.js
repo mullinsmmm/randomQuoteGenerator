@@ -1,5 +1,5 @@
 const quotes = [
-"The happiness of your life depends on the quality of your thoughts.",
+ "The happiness of your life depends on the quality of your thoughts.",
  "Take a good look deep within yourself. There is a source of strength that will help you to rise again and again. That's only if you really look for it.",
  "Human nature is the same. We are all subject to the same impulses and desires.",
  "Fame, no matter how great, will always slip into the sands of history, and the pursuit of it only demonstrates the vanity we have.",
